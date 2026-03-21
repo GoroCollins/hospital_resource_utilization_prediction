@@ -13,3 +13,4 @@ wheels/
 .qodo/
 managed_context
 test_suite_analysis
+outputs/models/*.pkl
