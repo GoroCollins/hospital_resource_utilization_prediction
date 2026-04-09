@@ -76,10 +76,10 @@ A **time-based train-test split** is used to ensure realistic forecasting condit
 
 ## Project Structure
 
-data/
-notebooks/
-src/
-outputs/
+data/  
+notebooks/  
+src/  
+outputs/  
 
 
 ---
